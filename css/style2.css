@@ -1,0 +1,27 @@
+.container{
+	background: rgba(255, 255, 255, 0.3); 
+}
+.container .row .panel{
+	text-align: center;
+	background: url('../img/main-intro/text-intro.jpg');
+	height: 60px;
+	text-align: center;
+	color: #C19A6B;
+	font-family: "Helvetica";
+	font-size: 30px;
+	font-weight: bold;
+}
+.container .row .panel h3{
+	color: #C19A6B;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Helvetica"
+}
+.sign-up{
+
+}
+.footer .container{
+	background: rgba(255, 255, 255, 0.3); 
+}

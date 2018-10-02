@@ -1,0 +1,24 @@
+.banner .container .row .banner-left .banner-title{
+	position: absolute;
+	bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.3); 
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-size: 26px;
+}
+.banner .container .row .banner-left .banner-title :hover{
+	color: black;
+}
+
+.banner .container .row .banner-right .banner-title{
+	position: absolute;
+	bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.3); 
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-size: 26px;
+}

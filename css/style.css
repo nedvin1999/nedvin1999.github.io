@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url('../img/background/blurred.jpg') fixed no-repeat center center /cover;
+}
+.container{
+	background: rgba(255, 255, 255, 0.3); 
+}
+.logo{}
+.header{
+	padding-top: 30px;
+}
+.header .container,
+.navbar .container{
+	background: none
+}
+.topmenu{
+	background: rgba(255, 255, 255, 0.3);
+	border: 0
+}
+.topmenu .nav .active:hover{
+	background: rgba(255, 255, 255, 0.3); 
+	color: white;
+}
+.topmenu .nav .active:{}
+main .container .row .link-text{
+	text-decoration: none;
+	color: black;
+}
+.main-intro{
+	background: url('../img/main-intro/text-intro.jpg');
+	height: 60px;
+	margin: 5px;
+}
+.main .container .row .main-intro p{
+	color: #C19A6B;
+	font-weight: bold;
+	padding: 2px;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Helvetica"
+}
+.main .container .row .intro-text{
+	font-size: 16px;
+}
+.banner img{
+	width: 100%
+}
+.banner .container{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.banner-right img.img1{
+	/* display: inline-block; */
+	padding-bottom: 15px
+}

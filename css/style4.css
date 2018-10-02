@@ -1,0 +1,9 @@
+.main .container .row .right .panel{
+	background: rgba(255, 255, 255, 0.3); 
+}
+.main .container .row .right .panel .item .product-item .thumbnail{
+	background: rgba(255, 255, 255, 0.3); 
+}
+.main .container .row .left .panel{
+	background: rgba(255, 255, 255, 0.3); 
+}
